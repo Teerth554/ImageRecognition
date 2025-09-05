@@ -2,9 +2,13 @@ This is a Next.js + TensorFlow.js based project that allows users to upload an i
 
 🚀 Features
 Upload any image from your device
+
 Run real-time image recognition with TensorFlow.js
+
 Display top predictions with probability scores
+
 Clean UI with responsive design
+
 Accessible at /recog
  route
 📂 Project Structure
@@ -15,15 +19,20 @@ app/
 🛠️ Installation & Setup
 
 Clone the repository:
+
 git clone https://github.com/Teerth554/ImageRecognition.git
+
 cd ImageRecognition
 
 Install dependencies:
 
 npm install
-Run the development server:
+
 npm run dev
+
 Open in browser:
+
+
 http://localhost:3000/recog
 http://localhost:3000
 
